@@ -1,2 +1,2 @@
 # Project
-Supervised Machine Learning Algorithms Comparison
+Finished Project
